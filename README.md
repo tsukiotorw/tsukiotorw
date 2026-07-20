@@ -1,8 +1,4 @@
-<div align="center">
-  <div style="width: 100%; height: 50px; overflow: hidden; position: relative;">
-    <img src="./assets/バナー.png" style="width: 100%; position: absolute; top: 50%; transform: translateY(-50%);">
-  </div>
-</div>
+<img src="./assets/バナー_GitHub用.png" style="width: 100%; display: block;">
 
 # みなさんこんばんわ！月音鉄道です！
 
